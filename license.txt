@@ -20,18 +20,15 @@ Medical Equipment: Devices used for life support, diagnostics, or critical healt
 
 Automotive Systems: Software used in autonomous driving, vehicle control, or safety-critical functions.
 
-4. Huawei Restriction
-Huawei Technologies Co., Ltd. and its subsidiaries are explicitly prohibited from using, distributing, or incorporating this software into any of their products or services.
+4. Huawei Usage and Support Restriction
+Huawei Technologies Co., Ltd. and its subsidiaries are explicitly prohibited from using, distributing, or incorporating this software into any of their products or services. The copyright holder and contributors will not provide any form of support, assistance, or updates for Huawei Technologies Co., Ltd. or its subsidiaries.
 
-5. No Support for Huawei
-The copyright holder and contributors will not provide any form of support, assistance, or updates for Huawei Technologies Co., Ltd. or its subsidiaries.
-
-6. Enforcement & Non-Mandatory Action
+5. Enforcement & Non-Mandatory Action
 The copyright holder reserves the right to enforce this license but is not obligated to do so.
 
 Enforcement actions may be taken against entities violating Section 2 or Section 4, particularly those engaging in Tivoization practices or unauthorized usage.
 
 This license is not subject to any government control, including but not limited to the United States government.
 
-7. Liability Disclaimer
+6. Liability Disclaimer
 This software is provided "as is", without warranties of any kind. The author is not liable for any damages resulting from its use.
