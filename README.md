@@ -26,6 +26,23 @@ Every user should have the ability to **install, modify, and run software freely
 - Enforcement actions **may** be taken against platforms engaging in **Tivoization** or **deliberately undermining open internet access**.  
 - This license is **not subject to any government regulations**, including but not limited to the U.S. government.  
 
+## Refuting Apple's Sideloading Arguments  
+Apple has repeatedly justified its **ban on sideloading** with security concerns, particularly in its report *"Building a Trusted Ecosystem for Millions of Apps: A Threat Analysis of Sideloading"*. Apple argues that sideloading would:  
+1. **Increase malware risks** by allowing users to install applications from unverified sources.  
+2. **Reduce user security and privacy** by bypassing App Store protections.  
+3. **Encourage fraud** by making it easier for malicious apps to impersonate legitimate ones.  
+
+However, these claims are **misleading** and **ignore obvious solutions** that preserve both security and openness:  
+
+- **Sideloading Can Be an Opt-In Feature**  
+  Apple could simply offer **an "Open Mode"** that allows experienced users to install apps freely.
+
+- **Malware Prevention Is Possible Without App Store Monopolies**  
+  Operating systems already have **built-in security features** like sandboxing, app permissions, and malware detection. Apple’s insistence on banning sideloading **is a business decision, not a technical necessity**.  
+
+- **Restricted PWA Support Is a Sign of Monopoly, Not Security**  
+  Apple also limits Progressive Web Applications (**PWA**) on iOS, forcing developers into its App Store instead of allowing truly **cross-platform**, **open** web apps. If Apple were truly committed to user choice, **PWA would be fully supported** rather than crippled.  
+
 ## Why ATL Matters  
 Software freedom isn’t just about open-source—it’s about **the fundamental right to use your own device**.  
-ATL ensures developers can **protect their projects from being locked into proprietary ecosystems**, while giving users the ability to **control their own hardware and software**—something that should never have been taken away.
+ATL ensures developers can **protect their projects from being locked into proprietary ecosystems**, while giving users the ability to **control their own hardware and software**—something that should never have been taken 
