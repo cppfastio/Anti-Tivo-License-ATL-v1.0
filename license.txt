@@ -13,19 +13,24 @@ Manufacturers must not use cryptographic signatures, hardware verification, or o
 
 If a device does not meet these conditions, the software must be licensed under GPLv3, ensuring full compliance with open-source principles.
 
-3. Exceptions
-The following categories of devices are exempt from Section 2 and may use this software without modification requirements:
+3. Prioritization of Cross-Platform Technologies
+When PWA (Progressive Web Applications) or Wine and other cross-platform technologies are available, developers and vendors should prioritize their use to maintain openness and portability.
+
+If a platform deliberately undermines open internet access (e.g., restricting the use of Progressive Web Applications (PWA) through a closed framework), then all software on that platform must be licensed under GPLv3, ensuring users have full modification and installation rights.
+
+4. Exceptions
+The following categories of devices are exempt from Sections 2 and 3 and may use this software without modification requirements:
 
 Medical Equipment: Devices used for life support, diagnostics, or critical healthcare applications.
 
 Automotive Systems: Software used in autonomous driving, vehicle control, or safety-critical functions.
 
-4. Enforcement & Non-Mandatory Action
+5. Enforcement & Non-Mandatory Action
 The copyright holder reserves the right to enforce this license but is not obligated to do so.
 
-Enforcement actions may be taken against entities violating Section 2, particularly those engaging in Tivoization practices or unauthorized usage.
+Enforcement actions may be taken against entities violating Section 2 or Section 3, particularly those engaging in Tivoization or deliberate internet restrictions.
 
 This license is not subject to any government control, including but not limited to the United States government.
 
-5. Liability Disclaimer
+6. Liability Disclaimer
 This software is provided "as is", without warranties of any kind. The author is not liable for any damages resulting from its use.
