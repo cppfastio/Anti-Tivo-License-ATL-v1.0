@@ -18,8 +18,8 @@ Every user should have the ability to **install, modify, and run software freely
 - Whenever **PWA (Progressive Web Applications)** or **Wine** is viable, developers and manufacturers **should prioritize** them to ensure openness and portability.  
 - If a platform **intentionally disrupts open internet browsing** (e.g., restricting **PWA functionality** for monopoly reasons), all software on that platform **must** be licensed under **GPLv3**, ensuring users’ full modification and installation rights.  
 
-### 3. Exemptions for Critical Systems  
-- **Medical Equipment** and **Automotive Systems** are exempt from modification restrictions to ensure safety and reliability.  
+### 3. Exemptions
+No devices are exemptions. Not even medical devices. 
 
 ### 4. Enforcement & Non-Mandatory Action  
 - The license holder **reserves the right** to enforce ATL but is **not obligated** to do so.  
